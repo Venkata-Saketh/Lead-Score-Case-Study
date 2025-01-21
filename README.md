@@ -15,9 +15,7 @@ An education company named X Education sells online courses to industry professi
 - Precision- Recall
 ## Details of files given
 - Lead Score Case Study.ipynb : The python file showing coding and data analysis
-- Assignment Subjective Questions.pdf : Some subjective questions answered
+- Assignment Subjective Questions.pdf : Subjective questions answered
 - Lead Score Case Study.pdf : Final Presentation
-- Leads.csv : Data worked on
-- Leads Data Dictionary.xlsx : Data Dictionary
 - Summary.pdf : Summary on what's done in the entire py file
 
